@@ -6,8 +6,8 @@ document.getElementById("load_header").innerHTML =
         <ul class="topmenu">
             <li><a href="profile.html" class="profile" id="profile_tag_pc">Вход</a></li>
             <li><a href="index.html" class="active">Главная</a></li>
-            <li><a href="https://vk.com/eugene_blogs_official" target="_blank">VK</a></li>
-            <li><a href="https://github.com/EugeneBlogs?tab=repositories" target="_blank">GitHub</a></li>
+            <li><a href="https://vk.com/eugenius_mylnikoff" target="_blank">VK</a></li>
+            <li><a href="https://github.com/eugenius-mylnikoff?tab=repositories" target="_blank">GitHub</a></li>
             <li><a href="projects.html">Наши проекты ↓</a>
                 <ul class="submenu">
                     <li><a href="#">Игры →</a>
@@ -54,8 +54,8 @@ document.getElementById("load_header").innerHTML =
         <ul class="dropdown-menu bg-gray">
             <li><a class="dropdown-item profile white" href="profile.html" id="profile_tag_mobile">Вход</a></li>
             <li><a class="dropdown-item active white" href="index.html">Главная</a></li>
-            <li><a class="dropdown-item" href="https://vk.com/eugene_blogs_official">VK</a></li>
-            <li><a class="dropdown-item" href="https://github.com/EugeneBlogs?tab=repositories">GitHub</a></li>
+            <li><a class="dropdown-item" href="https://vk.com/eugenius_mylnikoff">VK</a></li>
+            <li><a class="dropdown-item" href="https://github.com/eugenius-mylnikoff?tab=repositories">GitHub</a></li>
             <li><a class="dropdown-item" href="projects.html">Наши проекты</a></li>
             <li><a class="dropdown-item" href="storage.html">M.Storage</a></li>
         </ul>
